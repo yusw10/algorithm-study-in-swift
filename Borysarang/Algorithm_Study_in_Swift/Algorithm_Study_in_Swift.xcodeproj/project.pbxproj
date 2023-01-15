@@ -39,6 +39,7 @@
 		45E9BDCF2945BF77000A8A54 /* PGS_CaesarCipher_12926.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45E9BDCE2945BF77000A8A54 /* PGS_CaesarCipher_12926.swift */; };
 		45F9DCD629741CDF00CD1A64 /* PGS_DigitsSum_12931.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45F9DCD529741CDF00CD1A64 /* PGS_DigitsSum_12931.swift */; };
 		45F9DCD829741E3900CD1A64 /* PGS_CorrectParentheses_12909.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45F9DCD729741E3900CD1A64 /* PGS_CorrectParentheses_12909.swift */; };
+		45F9DCDA297427B200CD1A64 /* PGS_harshad_12947.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45F9DCD9297427B200CD1A64 /* PGS_harshad_12947.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -87,6 +88,7 @@
 		45E9BDCE2945BF77000A8A54 /* PGS_CaesarCipher_12926.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_CaesarCipher_12926.swift; sourceTree = "<group>"; };
 		45F9DCD529741CDF00CD1A64 /* PGS_DigitsSum_12931.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_DigitsSum_12931.swift; sourceTree = "<group>"; };
 		45F9DCD729741E3900CD1A64 /* PGS_CorrectParentheses_12909.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_CorrectParentheses_12909.swift; sourceTree = "<group>"; };
+		45F9DCD9297427B200CD1A64 /* PGS_harshad_12947.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_harshad_12947.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +133,7 @@
 				45BD4008295850F900B37A25 /* PGS_NaturalNumberReversingToArray_12932.swift */,
 				45BD400A29587B7900B37A25 /* PGS_Lambskewers_120830.swift */,
 				45F9DCD529741CDF00CD1A64 /* PGS_DigitsSum_12931.swift */,
+				45F9DCD9297427B200CD1A64 /* PGS_harshad_12947.swift */,
 			);
 			path = LEVEL1;
 			sourceTree = "<group>";
@@ -293,6 +296,7 @@
 				45BD4009295850F900B37A25 /* PGS_NaturalNumberReversingToArray_12932.swift in Sources */,
 				455F3BFE293CF4900049D6FA /* BOJ_SugarDelievery_2839.swift in Sources */,
 				45624F82291790880086674A /* BOJ_Form.swift in Sources */,
+				45F9DCDA297427B200CD1A64 /* PGS_harshad_12947.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
