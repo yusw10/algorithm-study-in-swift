@@ -37,6 +37,7 @@
 		45E9BDC3293F3766000A8A54 /* BOJ_MovieDirectorShom_1436.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45E9BDC2293F3766000A8A54 /* BOJ_MovieDirectorShom_1436.swift */; };
 		45E9BDCD2945B965000A8A54 /* BOJ_PrimeNumber1_1978.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45E9BDCC2945B965000A8A54 /* BOJ_PrimeNumber1_1978.swift */; };
 		45E9BDCF2945BF77000A8A54 /* PGS_CaesarCipher_12926.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45E9BDCE2945BF77000A8A54 /* PGS_CaesarCipher_12926.swift */; };
+		45F9DCD629741CDF00CD1A64 /* PGS_DigitsSum_12931.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45F9DCD529741CDF00CD1A64 /* PGS_DigitsSum_12931.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -83,6 +84,7 @@
 		45E9BDC2293F3766000A8A54 /* BOJ_MovieDirectorShom_1436.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_MovieDirectorShom_1436.swift; sourceTree = "<group>"; };
 		45E9BDCC2945B965000A8A54 /* BOJ_PrimeNumber1_1978.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_PrimeNumber1_1978.swift; sourceTree = "<group>"; };
 		45E9BDCE2945BF77000A8A54 /* PGS_CaesarCipher_12926.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_CaesarCipher_12926.swift; sourceTree = "<group>"; };
+		45F9DCD529741CDF00CD1A64 /* PGS_DigitsSum_12931.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_DigitsSum_12931.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +127,7 @@
 				45E9BDCE2945BF77000A8A54 /* PGS_CaesarCipher_12926.swift */,
 				45BD4008295850F900B37A25 /* PGS_NaturalNumberReversingToArray_12932.swift */,
 				45BD400A29587B7900B37A25 /* PGS_Lambskewers_120830.swift */,
+				45F9DCD529741CDF00CD1A64 /* PGS_DigitsSum_12931.swift */,
 			);
 			path = LEVEL1;
 			sourceTree = "<group>";
@@ -276,6 +279,7 @@
 				454DAB70291FAEFD002CC8D6 /* BOJ_BeeHouse_2292.swift in Sources */,
 				454DAB6E291FA338002CC8D6 /* BOJ_1712.swift in Sources */,
 				45E51D2F29067C410006154F /* BOJ_BridgeSet_1010.swift in Sources */,
+				45F9DCD629741CDF00CD1A64 /* PGS_DigitsSum_12931.swift in Sources */,
 				455F3BFC293CB8FE0049D6FA /* BOJ_Stack_10828.swift in Sources */,
 				45E9BDCF2945BF77000A8A54 /* PGS_CaesarCipher_12926.swift in Sources */,
 				45E51D26290595AD0006154F /* main.swift in Sources */,
